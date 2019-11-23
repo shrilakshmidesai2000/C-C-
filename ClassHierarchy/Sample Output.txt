@@ -1,0 +1,42 @@
+Enter name :
+Sinchana
+Enter Department :
+EC
+Enter empid :
+1
+Enter name :
+Shrilakshmi
+Enter Department :
+CS
+Enter empid :
+2
+
+Department : EC
+Bonus : 5000
+
+Department : CS
+Bonus : 3000
+
+No. of supervisors : 100
+
+ Name : Sinchana
+
+ Department : EC
+
+ No. of employees : 100
+
+ Bonus : 5000
+
+No. of salesmen : 50
+
+ Name : Shrilakshmi
+
+ Department : CS
+
+ No. of employees : 50
+
+ Bonus : 3000
+
+Process returned 0 (0x0)   execution time : 61.186 s
+Press any key to continue.
+
