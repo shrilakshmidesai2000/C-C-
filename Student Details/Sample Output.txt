@@ -1,0 +1,39 @@
+Enter the number of students :
+2
+Enter the Information of student 1
+Enter the student name :
+Sinchana
+Enter the usn of the student :
+138
+Enter the marks of the marks of three subjects :
+100
+100
+99
+Enter the Information of student 2
+Enter the student name :
+Shrilakshmi
+Enter the usn of the student :
+131
+Enter the marks of the marks of three subjects :
+100
+99
+98
+        The student name is : Sinchana
+        The student usn is : 138
+        The student marks for
+        m1 : 100
+        m2 is :100
+        m3 is :99
+        The Total is : 299
+The percentage is :99.6667%
+        The student name is : Shrilakshmi
+        The student usn is : 131
+        The student marks for
+        m1 : 100
+        m2 is :99
+        m3 is :98
+        The Total is : 297
+The percentage is :99%
+
+Process returned 0 (0x0)   execution time : 38.203 s
+Press any key to continue.
