@@ -1,0 +1,11 @@
+Shopping Cart
+The program uses the pointer to function concept
+1. Initialise the functions for Add_Item, Delete_Item, Display_Cart,Bill_Info.
+2. In main function :
+3. Declare the pointers for accessing the functions.
+4. Ask user for number of elements in the stock.
+5. Get the elements in stock from user.
+6. Once the stock is filled the user is asked for the element to be added to the cart.
+7. Based on the choices made by the user th pointer is assigned with the relative function name by a switch statement.
+8. The functions for operations on the cart include the 2D array index and pointer management logic.
+	

@@ -1,0 +1,88 @@
+*********SHOPING CART*********
+
+Item code       Quantity        Price
+1               20              100
+2               52              200
+3               14              150
+4               21              250
+
+Please enter your choice:
+
+ 1: add item
+ 2:delete item
+ 3:display info
+ 4:leave cart:
+1
+
+Enter the code and quantity of the item to be added to your cart:1
+10
+
+ the item with code1 is added to the cart
+
+ item code       quantity       cost
+1               10              1000.00
+ there are 1 items in your cart...
+
+
+
+Item code       Quantity        Price
+1               10              100
+2               52              200
+3               14              150
+4               21              250
+
+Please enter your choice:
+
+ 1: add item
+ 2:delete item
+ 3:display info
+ 4:leave cart:
+3
+
+ there are 1 items in your cart...
+
+
+ item code      quantity        amount
+
+1               10              1000.00
+
+
+                        Grand total is:1000.00
+
+
+Item code       Quantity        Price
+1               10              100
+2               52              200
+3               14              150
+4               21              250
+
+Please enter your choice:
+
+ 1: add item
+ 2:delete item
+ 3:display info
+ 4:leave cart:
+2
+
+ last item from your cart deleted
+
+ there are 0 items in your cart...
+
+
+
+Item code       Quantity        Price
+1               20              100
+2               52              200
+3               14              150
+4               21              250
+
+Please enter your choice:
+
+ 1: add item
+ 2:delete item
+ 3:display info
+ 4:leave cart:
+4
+
+Process returned 0 (0x0)   execution time : 12.529 s
+Press any key to continue.
