@@ -1,0 +1,6 @@
+Asset Number : 1
+Asset Name : mobile
+Asset Price : 12000.00
+Asset Number : 2
+Asset Name : laptop
+Asset Price : 57000.00

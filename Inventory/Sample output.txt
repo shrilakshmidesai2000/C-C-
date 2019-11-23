@@ -1,0 +1,8 @@
+Enter the asset number :1
+Enter the asset name :mobile
+Enter the asset price :12000
+Do you want to add another asset :y
+Enter the asset number :2
+Enter the asset name :laptop
+Enter the asset price :57000
+Do you want to add another asset :
