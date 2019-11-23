@@ -1,0 +1,9 @@
+Function Overloading
+1. Declare a class area with a1, a2 and a3 as the private variables for    area of circle, rectangle, triangle respectively.
+2. In public specifier declare a function are1 with one variable for circle    area, one with three variables for traingle, one with two variables for       rectangle also declare a display function to diaplay all areas.
+3. In main function 
+4. Create an object of class area.
+5. Ask for values of radius, length, breadth, base and height 	   vairables.
+6. Send the parameters to the function are.
+7. Call for display function.
+	
